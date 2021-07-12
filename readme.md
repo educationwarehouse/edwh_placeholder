@@ -1,6 +1,6 @@
 # Placeholder
 
-EducationWarehouse uses `EDWH` as it's internal abbreveation.  
-It's used a lot, and hence we reserve the name for internal tooling.
+At EducationWarehouse we use `EDWH` as our internal abbreviation.  
+Since we use it a lot we reserved the name for future tooling.
 
 Meet us at https://www.educationwarehouse.nl
