@@ -7,7 +7,8 @@ edwh = "console_entry_points:edwh"
 
 [tool.flit.metadata]
 # https://flit.readthedocs.io/en/latest/pyproject_toml.html#metadata-section
-module = "edwh"
+#module = "edwh"
+module = "educationwarehouse"
 author = "Education Warehouse"
 author-email = "remco.b@educationwarehouse.nl"
 home-page = "https://www.educationwarehouse.nl"
